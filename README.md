@@ -339,7 +339,7 @@ ENVIRONMENT
 </ol>
 <hr>
 <h2>👤 About The Author</h2>
-<p><strong>[Your Full Name]</strong><br>
+<p><strong>Muhammad Intesam Ur Rehman</strong><br>
 Business Analyst | Data Analytics | SaaS Strategy</p>
 <blockquote>
 <p><em>Bridging business problems with data-driven technical solutions.</em></p>
